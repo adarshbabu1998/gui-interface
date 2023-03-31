@@ -3,4 +3,7 @@
 ## modules
 ---
 * file handling
+* mathmodule
+* Regex
+
 
